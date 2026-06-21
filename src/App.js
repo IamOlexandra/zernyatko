@@ -1,11 +1,7 @@
-
+import Testimonials from "./components/Rewievs/Testomonials";
 
 function App() {
-  return (
-    <div className="App">
-
-    </div>
-  );
+  return <Testimonials />;
 }
 
 export default App;
