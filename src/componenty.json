@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Кава в зернах",
+    "description": "Арабіка, робуста, бленди та моносорти для різних способів приготування.",
+    "image": "https://i.ibb.co/KRm5zjF/Placeholder-Image1.png"
+  },
+  {
+    "id": 2,
+    "title": "Кавоварки та аксесуари",
+    "description": "Френч-преси, турки, мока-поти, пуровер-приладдя.",
+    "image": "https://i.ibb.co/hFhK2rTZ/Placeholder-Image2.png"
+  },
+  {
+    "id": 3,
+    "title": "Фільтри та витратні матеріали",
+    "description": "Паперові фільтри, серветки, допоміжні дрібниці для приготування кави.",
+    "image": "https://i.ibb.co/Kpz6FN28/Placeholder-Image.png"
+  }
+]
