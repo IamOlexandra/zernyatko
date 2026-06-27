@@ -1,5 +1,5 @@
 import ComponentItem from "./ComponentyItem";
-import componentyData from "./componenty.json";
+import componentyData from "../json/componenty.json";
 
 export default function PopulyarniComponenty() {
   return (
