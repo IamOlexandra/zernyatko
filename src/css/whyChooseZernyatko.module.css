@@ -1,0 +1,33 @@
+.whyChooseZernyatkoList {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    margin: 48px 64px 48px 64px;
+}
+.whyChooseZernyatkoTitle {
+    margin-left: 64px;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 120%;
+    letter-spacing: -1%;
+
+}
+
+.whyChooseZernyatkoItemText {
+    font-family: "Inter";
+    
+}
+.whyChooseZernyatkoItemTitle{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 130%;
+    letter-spacing: -1%;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+.whyChooseZernyatkoItemSymbol {
+    height: 48px;
+    width: 48px;
+}
