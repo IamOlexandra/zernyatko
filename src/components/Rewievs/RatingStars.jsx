@@ -1,6 +1,6 @@
 function RatingStars() {
   return (
-    <div>
+    <div className="rating-stars">
       <span>★</span>
       <span>★</span>
       <span>★</span>

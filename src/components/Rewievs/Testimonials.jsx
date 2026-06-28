@@ -1,3 +1,4 @@
+import "./Testimonials.css";
 import TestimonialsTitle from "./TestimonialsTitle";
 import TestimonialCard from "./TestimonialCard";
 import SliderDots from "./SliderDots";
@@ -29,10 +30,10 @@ function Testimonials() {
   ];
 
   return (
-    <section>
+    <section className="testimonials">
       <TestimonialsTitle />
 
-      <div>
+      <div className="testimonials__cards">
         {testimonials.map((item) => (
           <TestimonialCard
             key={item.id}
@@ -43,7 +44,7 @@ function Testimonials() {
         ))}
       </div>
 
-      <div>
+      <div className="testimonials__bottom">
         <SliderDots />
         <SliderButtons />
       </div>

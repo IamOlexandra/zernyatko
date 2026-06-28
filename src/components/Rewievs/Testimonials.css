@@ -1,0 +1,44 @@
+.testimonials {
+  padding: 80px;
+  background: #fef3db;
+}
+
+.testimonials__title {
+  font-size: 48px;
+  margin-bottom: 40px;
+}
+
+.testimonials__cards {
+  display: flex;
+  gap: 50px;
+  margin-bottom: 40px;
+}
+
+
+
+.rating-stars {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.testimonial-card p {
+  margin-bottom: 25px;
+}
+
+
+.testimonials__bottom {
+  display: flex;
+  align-items: center;
+}
+
+.slider-dots {
+  font-size: 12px;
+}
+
+.slider-buttons button {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background: orange;
+  margin-left: 10px;
+}

@@ -1,6 +1,6 @@
 function SliderDots() {
   return (
-    <div>
+    <div className="slider-dots">
       <span>●</span>
       <span>○</span>
       <span>○</span>

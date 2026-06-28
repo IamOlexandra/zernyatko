@@ -1,4 +1,4 @@
-import Testimonials from "./components/Rewievs/Testomonials";
+import Testimonials from "./components/Rewievs/Testimonials";
 
 function App() {
   return <Testimonials />;

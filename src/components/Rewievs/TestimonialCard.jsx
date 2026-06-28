@@ -2,7 +2,7 @@ import RatingStars from "./RatingStars";
 
 function TestimonialCard({ review, author, product }) {
   return (
-    <div>
+    <div className="testimonial-card">
       <RatingStars />
 
       <p>{review}</p>
